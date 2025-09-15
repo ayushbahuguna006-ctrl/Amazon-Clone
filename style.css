@@ -1,0 +1,425 @@
+#textone{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color: #cccc;
+    position:relative;
+}
+#texttwo{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight:bolder;
+    color:white;
+    position: relative;
+    bottom:20px;
+}
+#headerone{
+    position:sticky;
+    top:0px;
+    z-index: 1;
+}
+#navbar{
+    background-color: #131921;
+    height:60px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+#navaddress{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:200px;
+    height:60px;
+    position: relative;
+    top:6px;
+}
+#locationicon{
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top:10px;
+}
+#searchbar{
+        display:flex;
+}
+#dropdown{
+    height:40px;
+    width:50px;
+    background-color: #e6e6e6;
+    border-radius: 3px;
+    border-style:solid;
+    border-color:#e6e6e6;
+    border-width: 1px;
+}
+#search{
+    height:34.8px;
+    width:550px;
+}
+#searchicon{
+    background-color:#febd69;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:38px;
+    position: relative;
+    top:0px;
+    width:50px;
+    border-radius: 4px;
+    border-style:solid;
+    border-color:orange;
+    border-width: 1px;
+}
+#dropdowntwo{
+    background-color: #131921;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    border:none;
+    
+}
+#textthree{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13px;
+    position:relative;
+    top:5px;
+}
+#dropdownthree{
+    background-color: #131921;
+    color:white;
+    border:none;
+    font-size: 15px;
+    font-weight: bolder;
+}
+#signin{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+#accounts{
+    position: relative;
+    bottom:10px;
+}
+#textfour{
+    position:relative;
+    font-size: 15px;
+    font-weight: lighter;
+    top:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white
+      }
+#textfive{
+    color: white;
+    position:relative;
+    bottom:15px;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#returns{
+    display:flex;
+    flex-direction: column;
+}
+#cart{
+    color:white;
+}
+#all{
+    font-weight: bolder;
+    color:white;
+}
+#headertwo{
+    background-color:#232f3e ;
+    height:35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13px;
+}
+.navtwo{
+    color:white;
+    text-decoration: none;
+}
+#diwali{
+    background-image: url(amazondiwali.jpg);
+    background-size: cover;
+    height:500px;
+}
+#box{
+    display: flex;
+    height:500px;
+    justify-content: space-evenly;
+    background-color: #e3e6e6;
+}
+.box{
+    color: black;
+    background-color: white;
+    width:400px;
+    padding:20px;
+    position:relative;
+    bottom:240px;
+     overflow-x: hidden;
+}
+#textaone{
+    font-weight:bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    left:20px;
+    font-size:19px;
+}
+#imageryone{
+    position: relative;
+    bottom:140px;
+}
+#imagerytwo{
+    position: relative;
+    bottom:140px;
+    left:9px;
+     overflow-x: hidden;
+}
+#imagerythree{
+    position:relative;
+    bottom:100px;
+     overflow-x: hidden;
+}
+#imageryfour{
+    position:relative;
+    bottom:100px;
+    left:9px;
+     overflow-x: hidden;
+}
+#textasix{
+    position:relative;
+    bottom:50px;
+    text-decoration: none;
+    color:#3a96f3;
+     overflow-x: hidden;
+}
+#textatwo{
+    position: relative;
+    top:115px;
+    font-size: 15px;
+    left:50px;
+    color:#272828;
+     overflow-x: hidden;
+}
+#textathree{
+    position:relative;
+    top:80px;
+    left:230px;
+     color:#272828;
+      overflow-x: hidden;
+}
+#textafour{
+    position:relative;
+    top:205px;
+    left:30px;
+     color:#272828;
+      overflow-x: hidden;
+}
+#textafive{
+    position:relative;
+    top:170px;
+    left:250px;
+     color:#272828;
+      overflow-x: hidden;
+}
+#textaoneone,#textaoneoneone{
+    font-weight:bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    left:18px;
+    font-size:19px;
+     overflow-x: hidden;
+}
+#textatwotwo,#textatwotwotwo{
+      position: relative;
+    top:115px;
+    font-size: 15px;
+    left:45px;
+    color:#272828;
+     overflow-x: hidden;
+}
+#textathreethree,#textathreethreethree{
+      position:relative;
+    top:80px;
+    left:230px;
+     color:#272828;
+      overflow-x: hidden;
+}
+#textafourfour,#textafourfourfour{
+    position:relative;
+    top:205px;
+    left:45px;
+     color:#272828;
+      overflow-x: hidden;
+}
+#textafivefive,#textafivefivefive{
+    position:relative;
+    top:170px;
+    left:230px;
+     color:#272828;
+      overflow-x: hidden;
+}
+#imageryoneone{
+    position: relative;
+    bottom:140px;
+     overflow-x: hidden;
+}
+#imagerytwotwo{
+     position: relative;
+    bottom:140px;
+    left:9px;
+     overflow-x: hidden;
+}
+#imagerythreethree{
+     position:relative;
+    bottom:100px;
+     overflow-x: hidden;
+}
+#imageryfourfour{
+     position:relative;
+    bottom:100px;
+    left:9px;
+ overflow-x: hidden;
+}
+
+#textasixsix,#textasixsixsix{
+    position: relative;
+    bottom:52px;
+    text-decoration: none;
+    color:#3a96f3;
+    overflow-x: hidden;
+}
+#tothetop{
+    background-color: #37475a;
+    height:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: white;
+    overflow-x: hidden;
+}
+#top{
+    color:white;
+    text-decoration: none;
+    position: relative;
+    right:40px;
+}
+
+footer{
+    background-color: #232f3e;
+    height:550px;
+    overflow-x: hidden;
+    color: white;
+}
+#leftnav{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    padding-left: 250px;
+    padding-top:40px;
+    height:130px;
+    position: relative;
+    top:7px;
+}
+#know{
+    font-size: larger;
+
+}
+#careers{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height:100px;
+}
+#about{
+    position: relative;
+    top:3px;
+}
+#socials{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: #b1b8bb;
+    height:80px;
+    position: relative;
+    left:15px;
+}
+#line{
+    border:none;
+    background-color:#3d4450;
+    height: 0.1px;
+}
+#img{
+    
+}
+#connect{
+color:white;
+font-size: larger;
+}
+#navbelow{
+    display: flex;
+}
+#careertwo{
+    color:#b1b8bb;
+    position: relative;
+    top:2px;
+}
+#midnav{
+    position: relative;
+    bottom: 37px;;
+    left:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#rightnav{
+    color:white;
+    position:relative;
+    left:400px;
+    top:45px;
+}
+#money{
+    font-size: larger;
+}
+#img{
+    position: relative;
+    right:40px;
+}
+#sell{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    height:250px;
+    color:#b1b8bb;
+}
+#copyright{
+    display: flex;
+    justify-content: space-evenly;
+}
+#affiliate{
+    display: flex;
+    position: relative;
+    top:20px;
+    right:270px;
+}
+#notice{
+position: relative;
+left:20px;
+}
+#ad{
+    position: relative;
+    left:50px;
+}
+#navlow{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left:50px;
+    font-size: 14px;
+    color: #aab2b4;
+}
