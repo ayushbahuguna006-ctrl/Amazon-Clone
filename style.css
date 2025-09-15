@@ -142,7 +142,7 @@
     text-decoration: none;
 }
 #diwali{
-    background-image: url(amazondiwali.jpg);
+    background-image: url(assets/amazondiwali.jpg);
     background-size: cover;
     height:500px;
 }
@@ -311,9 +311,11 @@
 
 footer{
     background-color: #232f3e;
-    height:550px;
+    height:600px;
     overflow-x: hidden;
     color: white;
+    position: relative;
+    bottom:52px;
 }
 #leftnav{
     color:white;
